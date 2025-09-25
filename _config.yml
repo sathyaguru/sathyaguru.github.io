@@ -238,34 +238,34 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+      values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
       path: ""
       type: pages
-    values:
+      values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
-    values:
+      values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
       path: ""
       type: publications
-    values:
+      values:
       layout: single
       author_profile: true
       share: false
@@ -274,19 +274,19 @@ defaults:
   - scope:
       path: ""
       type: portfolio
-    values:
+      values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
       path: ""
       type: talks
-    values:
+      values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS

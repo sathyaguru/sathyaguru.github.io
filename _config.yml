@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Sathya Karunananthan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Sathya Karunananthan"
+description              : &description "Sathya Karunananthan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://sathyaguru.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sathyaguru/sathyaguru.github.io"
@@ -24,9 +24,9 @@ repository               : "sathyaguru/sathyaguru.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Associate professor with tenure"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : # "Ottawa, Canada"
   employer         : "University of Ottawa"
   uri              : "https://www.uottawa.ca/faculty-health-sciences/interdisciplinary/our-professors/sathya-karunananthan"
@@ -38,7 +38,7 @@ author:
   googlescholar    : # "https://scholar.google.ca/citations?user=1n7i6EcAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=sathya+karunananthan%5BAuthor%5D&sort=date&sort_order=desc"
   researchgate     : "https://www.researchgate.net/profile/Sathya-Karunananthan"
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

@@ -17,7 +17,8 @@ let determineComputedTheme = () => {
   if (themeSetting != "system") {
     return themeSetting;
   }
-  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+    // return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+    return "dark;
 };
 
 // detect OS/browser preference

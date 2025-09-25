@@ -6,21 +6,17 @@
 // "system". Default is "system".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-//    return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
-    return "dark";    
+    return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
 };
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
 // "system", the computed theme is determined based on the user's system preference.
 let determineComputedTheme = () => {
-/*
   let themeSetting = determineThemeSetting();
   if (themeSetting != "system") {
     return themeSetting;
   }
 return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
-*/
-    return "dark";
 };
 
 // detect OS/browser preference

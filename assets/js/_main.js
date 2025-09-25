@@ -6,8 +6,7 @@
 // "system". Default is "system".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-    //  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
-    return "dark";
+    return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
 };
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
@@ -17,16 +16,19 @@ let determineComputedTheme = () => {
   if (themeSetting != "system") {
     return themeSetting;
   }
-    // return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
-    return "dark;
+    return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
 };
 
 // detect OS/browser preference
 const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 
 // Set the theme on page load or when explicitly called
+
 let setTheme = (theme) => {
-  const use_theme =
+    $("html").attr("data-theme", "dark");
+
+/*
+const use_theme =
     theme ||
     localStorage.getItem("theme") ||
     $("html").attr("data-theme") ||
@@ -39,6 +41,7 @@ let setTheme = (theme) => {
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
   }
+    */
 };
 
 // Toggle the theme manually

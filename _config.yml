@@ -24,9 +24,9 @@ repository               : "sathyaguru/sathyaguru.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Associate professor with tenure"
+  name             : #"Sathya Karunananthan"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : # "Associate professor with tenure"
   location         : # "Ottawa, Canada"
   employer         : "University of Ottawa"
   uri              : "https://www.uottawa.ca/faculty-health-sciences/interdisciplinary/our-professors/sathya-karunananthan"

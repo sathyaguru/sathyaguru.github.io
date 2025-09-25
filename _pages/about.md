@@ -18,9 +18,9 @@ Professor Karunananthan’s research takes an integrated knowledge translation a
 
 ## Research interests
 
-    * Equitable access to health services
-    * Language as a social determinant of health
-    * Older adults living with dementia and frailty
-    * Health technology and artificial intelligence in health care
-    * Meta-research
-    * Participatory research
+* Equitable access to health services
+* Language as a social determinant of health
+* Older adults living with dementia and frailty
+* Health technology and artificial intelligence in health care
+* Meta-research
+* Participatory research

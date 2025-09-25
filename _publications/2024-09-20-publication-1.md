@@ -3,7 +3,7 @@ title: 'Can a replication revolution resolve the duplication crisis in systemati
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-20-publication-1
-# excerpt: ''
+excerpt: ''
 date: 2024-09-20
 venue: 'BMJ Evidence-Based Medicine'
 # slidesurl: ''

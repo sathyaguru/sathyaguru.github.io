@@ -1,5 +1,5 @@
 ---
-title: "Can a replication revolution resolve the duplication crisis in systematic reviews?"
+title: 'Can a replication revolution resolve the duplication crisis in systematic reviews?'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-20-publication-1

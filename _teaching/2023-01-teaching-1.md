@@ -1,11 +1,11 @@
 ---
-title: "Epidemiology"
+title: 'Epidemiology'
 collection: teaching
-type: "Undergraduate course"
+type: 'Undergraduate course'
 permalink: /teaching/2023-01-teaching-1
-venue: "University of Ottawa, Interdisciplinary School of Health Sciences"
+venue: 'University of Ottawa, Interdisciplinary School of Health Sciences'
 date: 2023-01
-location: "Ottawa, Ontario"
+location: 'Ottawa, Ontario'
 ---
 
 Examination  of  disease/disability  surveillance,  health  measures, 

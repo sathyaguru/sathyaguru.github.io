@@ -1,5 +1,5 @@
 ---
-title: "What do primary care providers want to know when caring for patients living with frailty? An analysis of eConsult communications between primary care providers and specialists"
+title: 'What do primary care providers want to know when caring for patients living with frailty? An analysis of eConsult communications between primary care providers and specialists'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-16-publication-1

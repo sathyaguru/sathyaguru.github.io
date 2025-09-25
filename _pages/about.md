@@ -16,16 +16,16 @@ Professor Karunananthan’s research takes an integrated knowledge translation a
 **Professor Karunananthan is accepting new students for thesis supervision.**
 
 
-** Research interests
+## Research interests
 
-    - Equitable access to health services
-    - Language as a social determinant of health
-    - Older adults living with dementia and frailty
-    - Health technology and artificial intelligence in health care
-    - Meta-research
-    - Participatory research
+    * Equitable access to health services
+    * Language as a social determinant of health
+    * Older adults living with dementia and frailty
+    * Health technology and artificial intelligence in health care
+    * Meta-research
+    * Participatory research
 
-** Research
+## Research
 
 Sathya Karunananthan’s research on health services focuses on improving access to care for older adults with complex health conditions, such as dementia, frailty, chronic pain and Parkinson’s disease. She investigates disparities in care access among underserved communities, specifically, linguistic minority and racialized groups. She studies the impact of health technologies like electronic consultation and artificial intelligence on inequities in access to care and health outcomes.
 

@@ -1,15 +1,16 @@
 ---
-title: 'What do primary care providers want to know when caring for patients living with frailty? An analysis of eConsult communications between primary care providers and specialists'
+title: 'What do primary care providers want to know when caring for patients living with frailty? An analysis of eConsult communications between primary care providers and specialists.'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-16-publication-1
 # excerpt: ''
 date: 2024-01-16
 venue: 'BMC Health Services Research'
+author: 'Karunananthan S, Bonacci G, Fung C, Huang A, Robert B, McCutcheon T, Houghton D, Hakimjavadi R, Keely E, Liddy C.'
 # slidesurl: ''
 paperurl: '/files/s12913-024-10542-x.pdf'
 # bibtexurl: ''
-citation: 'Karunananthan, S., Bonacci, G., Fung, C. et al. What do primary care providers want to know when caring for patients living with frailty? An analysis of eConsult communications between primary care providers and specialists. BMC Health Serv Res 24, 76 (2024). https://doi.org/10.1186/s12913-024-10542-x'
+citation: 'BMC Health Serv Res. 2024 Jan 16;24(1):76. doi: 10.1186/s12913-024-10542-x. PMID: 38225619; PMCID: PMC10790473.'
 ---
 
 ### Background

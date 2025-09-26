@@ -1,7 +1,7 @@
 ---
 title: 'Can a replication revolution resolve the duplication crisis in systematic reviews?'
 collection: publications
-category: manuscripts
+# category: manuscripts
 permalink: /publication/2024-09-20-publication-1
 # excerpt: ''
 date: 2024-09-20

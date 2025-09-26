@@ -24,7 +24,7 @@ repository               : "sathyaguru/sathyaguru.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Sathya Karunananthan"
+  name             : "Sathya Karunananthan"
   pronouns         : # example: "she/her"  
   bio              : "Associate professor with tenure"
   location         : # "Ottawa, Canada"

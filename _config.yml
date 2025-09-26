@@ -227,6 +227,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -274,6 +277,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  # _team
+  - scope:
+      path: ""
+      type: team
     values:
       layout: single
       author_profile: true

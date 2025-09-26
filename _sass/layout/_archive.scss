@@ -83,7 +83,10 @@
     text-decoration: underline;
   }
 }
-
+.archive__item .author__avatar {
+    float: right;
+    margin-right: 25%;
+}
 
 /*
    List view

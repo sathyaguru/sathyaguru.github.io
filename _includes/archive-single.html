@@ -57,7 +57,7 @@
   </div>
   {% endif %}
   
-	 {% if post.collection != 'publications' %}
+	 {% if post.collection != 'publications' and post.collection != 'team' %}
 	 {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}

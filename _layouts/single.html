@@ -45,15 +45,6 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-  	 {% if page.collection == 'team'' %}
-  <div class="author__avatar">
-    	<img src="{{ page.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ page.title }}"  fetchpriority="high" />
-  </div>
-
-  <div class="author__content">
-    <h3 class="author__name">{{ page.position }}</h3>
-  </div>
-  {% endif %}
       {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}

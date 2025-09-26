@@ -3,6 +3,7 @@ title: 'What do primary care providers want to know when caring for patients liv
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-16-publication-1
+excerpt: false
 date: 2024-01-16
 venue: 'BMC Health Services Research'
 author: 'Karunananthan S, Bonacci G, Fung C, Huang A, Robert B, McCutcheon T, Houghton D, Hakimjavadi R, Keely E, Liddy C.'

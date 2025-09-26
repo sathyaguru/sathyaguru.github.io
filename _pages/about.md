@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br/>
 
 
 Sathya Karunananthan holds a PhD in epidemiology from McGill University. She is an assistant professor in the Interdisciplinary School of Health Sciences at the University of Ottawa and an investigator at the Bruyère Health Research Institute.
